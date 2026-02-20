@@ -1,2 +1,2 @@
-# Python-LM
-Python LM Learning Machine
+# Python-ML
+Python Machine Learning examples
